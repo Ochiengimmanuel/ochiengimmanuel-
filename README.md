@@ -12,7 +12,7 @@ I'm a student and writer dedicated to impactful content and ready to explore man
 - ["Python", "HTML/CSS", "Machine Learning", "JavaScript"]
 
 ## Current Projects
-- [Web development](link) — short description
+- [Web development](link) — Personal  website that help showcase my skills and project.
 
 ## How to Reach Me
 - Email: [ochiengimmanuel752@gmail.com]
